@@ -5,7 +5,6 @@ output:
         code_folding: hide
 
 ---
-asdasdasdasd
 ## We will use the next packages:
 ```{r setup, eval = FALSE}
 library(dplyr)

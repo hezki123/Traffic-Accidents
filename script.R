@@ -2,7 +2,6 @@ library(dplyr)
 library(ggplot2)
 library(tidyverse)
 
-sdadasdasd
 
 data1 <- read.csv('project.csv')
 
