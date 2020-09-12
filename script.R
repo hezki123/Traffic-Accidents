@@ -2,6 +2,8 @@ library(dplyr)
 library(ggplot2)
 library(tidyverse)
 
+sdadasdasd
+
 data1 <- read.csv('project.csv')
 
 myData = select(data1, -1:-3, -5:-23, -25, -31, -33, -36, -38:-39, -41:-42, -45, -47:-49)
